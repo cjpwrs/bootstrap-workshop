@@ -29,6 +29,8 @@ Who uses Bootstrap? http://expo.getbootstrap.com/
 	- https://www.mongodb.com/cloud
 
 --------------------------------------------------------------------------------------------
+RESOURCES:
 
+Bootstrap playground - http://www.bootply.com/63838
 
-http://www.bootply.com/63838
+Bootstrap tutorial - https://www.codecademy.com/courses/web-beginner-en-yjvdd/0/1
